@@ -1,0 +1,44 @@
+h1{
+color:aliceblue;
+font-size:38px;    
+font-family:Arial
+}
+
+
+h2{
+    color:lawngreen; font-style: oblique;
+   font-size:20px;
+    font-family:inherit
+}
+p {color:azure
+    
+}
+
+p {
+    font-size:18px;
+}
+
+h3 {
+    font-size:12px;
+    font-family:sans-serif;
+    color:#cfedfd;
+    font-style: oblique;
+    
+}
+body{
+    background-image:url(  forest-5159688_1920.jpg); background-size:cover;   
+        
+}
+
+img {
+    font-size: 500px 500px
+}
+a
+{ color: #1fe54d;}
+    
+.sujit-text{ color: #fcf9f6;
+ font-style: oblique;   
+    h4{ font-family: cursive;}  
+    
+    
+
